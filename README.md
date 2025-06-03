@@ -28,4 +28,4 @@ A Python-based desktop application that provides detailed tokenomics, conservati
 1. **Clone the repository**  
 ```bash
 git clone https://github.com/mujtaba-kazmi2006/crypto-tokenomics-app.git
-cd your-crytp-tokenomics-app
+cd -crytp0-tokenomics-app
